@@ -18,10 +18,16 @@ with open('spend.txt') as f:
     spend = int(f.read().strip())
 print('Your spend until today is: ',spend)
 
+with open('spend-new.txt') as f:
+    last = int(f.read().strip())
+print('Your last spend: ',last)
+
+
 # Get the todays spend from user
 today_spend = int(input('Enter your spending today: '))
 
 with open('spend-new.txt', 'w') as f:
+    
     f.write(str(today_spend))
 
 
@@ -32,5 +38,6 @@ avg = sum/day
 with open('spend.txt', 'w') as f:
     f.write(str(sum))
 
-print("%d days have passed since the start and your daily average spend is %f lira."% (day, avg))
+print("%d days have passed since the start." %day)
+print("and your daily average spend is %f lira." %avg)
     
