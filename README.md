@@ -13,7 +13,9 @@ Calculate average daily expenditure user interface
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a student
+
+🧠 I'm currently learning python things
 
 
 # Hi, I'm Ozan 👋
@@ -23,10 +25,8 @@ I'm a full stack developer...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozan-ba%C4%9F%C4%B1ran-084371150/)
 
 
-## Other Common Github Profile Sections
-I'm a student
 
-🧠 I'm currently learning python things
+
 
 ## 🛠 Skills
 Python, C ...
