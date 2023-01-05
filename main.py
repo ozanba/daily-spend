@@ -1,6 +1,5 @@
 from tkinter import *
 import datetime
-application
 root = Tk()
 root.title('Daily average spend')
 #Get variables from files
