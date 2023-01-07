@@ -30,3 +30,6 @@ Python, C, HTML ...
 
 while building this project I learned tkinter
 
+## Other
+https://github.com/ozanba/tkinter-dice-game
+
