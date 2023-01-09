@@ -6,9 +6,11 @@ Calculate average daily expenditure user interface
 
 ## Screenshots
 
-![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjHoOyZKoUeCkpmdW13Lypm1KJJzjpO1Qyhs3bRfF_HIsY26p2SdaLzj60VbSr-Uhw47QZdSTjHFz9vxRCkQ1Wbw32zya7eF9ZcT_iD-D9d-1dBQlTBw_uCokkXRKh1I-i7D75O6EsKLYyu1LvbgpPaSTVNHuQCyHnBebXgD2OS03yanhsjfIknARY/s320/Screenshot%202023-01-05%20at%2023.24.06.png)
+<img width="462" alt="Screenshot 2023-01-09 at 08 59 56" src="https://user-images.githubusercontent.com/70808189/211248768-98038138-f41c-4ac0-b5b2-5ed185d30741.png">
+<img width="467" alt="Screenshot 2023-01-09 at 09 00 11" src="https://user-images.githubusercontent.com/70808189/211248796-2c4eacda-d18d-4f87-9c7d-4d83bb9498ab.png">
+<img width="466" alt="Screenshot 2023-01-09 at 09 00 42" src="https://user-images.githubusercontent.com/70808189/211248806-0e421c83-6a8f-4e05-b9d4-36b56543d07b.png">
+<img width="468" alt="Screenshot 2023-01-09 at 09 01 02" src="https://user-images.githubusercontent.com/70808189/211248831-5ecc7244-903e-4ad6-a787-03156f557ef7.png">
 
-![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpKvAuvKnrSHRtfxBoTyUvRrnR_T6AJFPxtcQHnzZ5oZmTNp2igWVXa8j7frCD7-RanF6eQPi9Xnp0dCa7O6BvFinX8PsGsPpyM3EBUa8a6-RG6keSCpUeGhmzF-FhFrS-x0a0u1MdFSpWWIbQvIbvkaIvX20coXMQNcWwc6ZRqks6aV2gx6Tbnp_t/s320/Screenshot%202023-01-05%20at%2023.24.31.png)
 
 
 # Hi, I'm Ozan 👋
